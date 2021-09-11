@@ -140,6 +140,5 @@ dmypy.json
 cython_debug/
 
 # Other stuff
-.idea
-__pycache__
-.gitignore
+/.idea
+/__pycache__
